@@ -271,7 +271,6 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
-  padding-bottom: 32px;
 }
 /* Portfolio */
 .portfolio {
@@ -314,7 +313,6 @@ button {
   color: #2e2f42;
   padding-top: 32px;
   margin-bottom: 8px;
-  padding-left: 16px;
   padding-right: auto;
 }
 .portfolio-text {
@@ -324,7 +322,6 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
   padding-bottom: 32px;
-  padding-left: 16px;
   padding-right: 314px;
 }
 /* Footer */
